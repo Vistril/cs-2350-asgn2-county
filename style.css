@@ -1,3 +1,7 @@
+table, th, td {
+  border:1px solid black;
+  color:#00f
+}
 span.t {
   display: inline-block;
   width: 100px;
