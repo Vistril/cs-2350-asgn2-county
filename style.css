@@ -8,5 +8,5 @@ span.t {
   height: 100px;
   padding: 5px;
   border: 1px solid black;    
-  position: relative; top: -50%;
+  position: relative; bottom: 50%;
 }
