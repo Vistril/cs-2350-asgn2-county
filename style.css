@@ -1,13 +1,12 @@
 table, th, td {
   border:1px solid black;
-  color:#00f
+  background-color:#00f
 }
 span.t {
   display: inline-block;
   width: 100px;
   height: 100px;
   padding: 5px;
-  border: 1px solid blue;    
-  background-color: yellow; 
+  border: 1px solid black;    
   position: relative; top: -50%;
 }
